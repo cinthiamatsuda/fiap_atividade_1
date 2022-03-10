@@ -79,6 +79,7 @@ header h1 {
 
 .vida-profissional {
     display: flex;
+    align-items: center;
     margin-right: 100px;
     margin-top: 50px;
 }
